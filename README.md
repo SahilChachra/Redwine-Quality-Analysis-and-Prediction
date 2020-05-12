@@ -1,0 +1,16 @@
+<H1>Redwine Quality Data Visualization and Prediction</H1>
+<H3>Link to Kaggle - <a href='https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009'>Redwine Quality</a></H3>
+<H3>This python notebook contains alot of basics such as Data Visualization, handling outliers and Hypterparameter tuning of various algorithms</H3>
+<H2>Topics Covered :</H2>
+<ol>
+    <li>Exploring Dataset - info, describe and conclusions from them</li>
+    <li>Checking Outliers and Plotting them using seaborn.boxplot</li>
+    <li>Calculating Correlation and plotting it using seaborn.heatmap</li>
+    <li>PLotting Graphs for Quality vs other features and giving conclusions for each graph</li>
+    <li>Plotting and Calculating Skewness and Kurtosis</li>
+    <li>Removing Skewness using Interquartile Range(IQR)</li>
+    <li>Plotting graphs to Compare Skewness after removing Outliers</li>
+    <li>Preparing Traing and Test Data set using StratifiedShuffleSplit</li>
+    <li>Linear Regression followed by Hyperting using RandomizedSearchCV</li>
+    <li>KNN followed by Hypertuning using RandomizedSearchCV</li>
+</ol>

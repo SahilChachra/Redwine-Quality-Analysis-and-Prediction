@@ -6,11 +6,11 @@
     <li>Exploring Dataset - info, describe and conclusions from them</li>
     <li>Checking Outliers and Plotting them using seaborn.boxplot</li>
     <li>Calculating Correlation and plotting it using seaborn.heatmap</li>
-    <li>PLotting Graphs for Quality vs other features and giving conclusions for each graph</li>
+    <li>Plotting Graphs for Quality vs other features and giving conclusions for each graph</li>
     <li>Plotting and Calculating Skewness and Kurtosis</li>
     <li>Removing Skewness using Interquartile Range(IQR)</li>
     <li>Plotting graphs to Compare Skewness after removing Outliers</li>
-    <li>Preparing Traing and Test Data set using StratifiedShuffleSplit</li>
-    <li>Linear Regression followed by Hyperting using RandomizedSearchCV</li>
+    <li>Preparing Training and Test dataset using StratifiedShuffleSplit</li>
+    <li>Linear Regression followed by Hypertuning using RandomizedSearchCV</li>
     <li>KNN followed by Hypertuning using RandomizedSearchCV</li>
 </ol>

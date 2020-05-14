@@ -10,7 +10,11 @@
     <li>Plotting and Calculating Skewness and Kurtosis</li>
     <li>Removing Skewness using Interquartile Range(IQR)</li>
     <li>Plotting graphs to Compare Skewness after removing Outliers</li>
+    <li>Performing Scaling of Data using StandardScaler</li>
     <li>Preparing Training and Test dataset using StratifiedShuffleSplit</li>
-    <li>Linear Regression followed by Hypertuning using RandomizedSearchCV</li>
-    <li>KNN followed by Hypertuning using RandomizedSearchCV</li>
+    <li>Linear Regression followed by Hyperparameter tuning using RandomizedSearchCV</li>
+    <li>KNN followed by Hyperparameter tuning using RandomizedSearchCV</li>
+    <li>Random Forest Classifier followed by Hyperparameter Tuning using RandomizedSearchCv</li>
+    <li>Plotting graph of Models vs Cross Validation Score </li>
+    <li>Plotting graph of Models vs Accuracy on Test Data</li>
 </ol>

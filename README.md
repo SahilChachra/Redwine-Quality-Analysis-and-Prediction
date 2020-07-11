@@ -1,16 +1,21 @@
 <h1 align="center">Redwine Quality Classification</h1>
 
 <div align='center'>
-<img src= "" height=500 width=500>
+<img src= "https://github.com/SahilChachra/Redwine-Quality-Analysis-and-Prediction/blob/master/sampleImages/tenor.gif">
+Above GIF has been downloaded from Tenor
 </div>
 
 <div align= "center">
-  <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
+  <h4>Redwine Quality Classification using Random Forest Classifier.</h4>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## :hourglass: Project Demo
+## :hourglass: Some Screenshots
+
+![](https://github.com/SahilChachra/Redwine-Quality-Analysis-and-Prediction/blob/master/sampleImages/corr.png)
+
+![](https://github.com/SahilChachra/Redwine-Quality-Analysis-and-Prediction/blob/master/sampleImages/CvScore.png)
 
 
 ## :star: Features

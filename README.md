@@ -2,7 +2,7 @@
 
 <div align='center'>
 <img src= "https://github.com/SahilChachra/Redwine-Quality-Analysis-and-Prediction/blob/master/sampleImages/tenor.gif">
-Above GIF has been downloaded from Tenor
+<br>Above GIF has been downloaded from Tenor
 </div>
 
 <div align= "center">
